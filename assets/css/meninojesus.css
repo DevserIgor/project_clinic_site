@@ -1,0 +1,35 @@
+#lista_especialidades .row div .single-defination .btn_content{width:100%;text-align:center;cursor: pointer;}
+#lista_especialidades .row div .especialidades_horarios{ margin-bottom: 20px; }
+
+.modal a.close-modal {  
+  z-index: 999;
+  background-image: url('../images/icons/close.png');
+  top:0;
+  right: 10px;
+  width: 12px;   
+}
+.nome_profissional{
+	font-weight:bold;
+}
+.especialidades_horarios{
+	margin-bottom: 15px;
+}
+
+.temp_modal{
+	overflow: auto;
+	max-height: 300px;
+}
+
+.temp_modal::-webkit-scrollbar-track{
+	background-color: #F4F4F4;
+	border-radius: 50px;
+}
+.temp_modal::-webkit-scrollbar{
+	width: 10px;			
+	background: #F4F4F4;
+	border-radius: 50px;
+}
+.temp_modal::-webkit-scrollbar-thumb{
+	background: #dad7d7;
+	border-radius: 50px;
+}
