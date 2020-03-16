@@ -11,7 +11,7 @@
                     <h1>Há mais de 50 anos cuidando de você.</h1>
                     <h4>Qualidade de vida acessível e confiável.</h4>
                     <!--<p>Qualidade de vida acessível e confiável.</p>-->
-                    <a href="" class="template-btn mt-3">Agende sua consulta</a>
+                    <a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn mt-3">Agende sua consulta</a>
                 </div>
             </div>
         </div>

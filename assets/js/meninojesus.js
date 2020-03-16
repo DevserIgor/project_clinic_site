@@ -157,3 +157,28 @@ $(function(){
 	
 
 });
+
+function exibe_exame(exame){
+	if (exame != '') {
+		$(".titulo_exame").addClass('d-none');
+		$(".conteudo_exame").addClass('d-none');
+		$(".animated").removeClass('fadeInRight');
+		$(".titulo_exame").removeClass('fadeInRight');
+
+
+		$(".titulo_"+exame).removeClass('d-none');
+		$(".conteudo_"+exame).removeClass('d-none');
+		$(".conteudo_"+exame).addClass('fadeInRight');
+		$(".titulo_"+exame).addClass('fadeInRight');		
+
+        $('body,html').animate({
+            scrollTop: $("#pagina_titulo").offset().top-70
+        }, 800);
+        
+        
+        
+
+	}
+
+}
+

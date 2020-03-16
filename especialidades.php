@@ -31,7 +31,7 @@
                         <blockquote class="generic-blockquote">
                             <h3 class="mb-30 title_color">Não há desculpas para não se cuidar</h3>
                             A Policlínica Menino Jesus trabalha com diversas especialidades médicas em uma única unidade de saúde. Com um ambiente acolhedor, buscamos fazer a relação médico-paciente a mais próxima possível.
-                            <br><br><a href="" class="template-btn">Agende sua consulta</a>
+                            <br><br><a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn">Agende sua consulta</a>
                             <br><br>Confira a lista completa das especialidades atendidas abaixo.
                         </blockquote>
                     </div>
@@ -151,7 +151,7 @@
                 </div>
                                 
             </div>
-            <div style="width:100%;text-align:center;"><a href="" class="template-btn">Agende sua consulta</a></div><br><br><br><br>
+            <div style="width:100%;text-align:center;"><a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn">Agende sua consulta</a></div><br><br><br><br>
         </div>
     </div>
     <!-- Align Area End -->

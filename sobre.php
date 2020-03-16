@@ -37,7 +37,7 @@
                                         <br>- Atendimento de qualidade;
                                         <br>- Transparência;
                                         <br>- Qualidade nos serviços.</p>
-                        <a href="#" class="template-btn mt-3">Agende sua consulta</a>
+                        <a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn mt-3">Agende sua consulta</a>
                     </div>
                 </div>
             </div>

@@ -19,9 +19,11 @@
     <link rel="stylesheet" href="assets/css/owl-carousel.min.css">
     <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css">
     <link rel="stylesheet" href="assets/css/linearicons.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css"/>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/meninojesus.css">    
+    <link rel="stylesheet" href="assets/css/animate.css">
 </head>
 <body>
     <!-- Preloader Starts -->
