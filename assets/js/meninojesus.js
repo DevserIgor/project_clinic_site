@@ -133,6 +133,8 @@ $(function(){
 
 
 	$(".especialidade_titulo").click(function(){
+		$('#modal_especialidade_horarios').html('');
+
 		var especialidade = $(this).html();
 		var element = $(this).parent().siblings('.especialidades_horarios');
 		// console.log(element)		
@@ -145,6 +147,8 @@ $(function(){
 		var temp = element.clone();
 		temp.removeClass('d-none');
 		$(".temp_modal").append(temp);
+
+		$('<div style="width:100%;text-align:center;"><a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target="_blank" class="template-btn">Agende sua consulta</a></div><br>').appendTo('#modal_especialidade_horarios');
 
 		// $( especialidade  ).appendTo("#modal_especialidade_horarios");
 		// $( element  ).appendTo("#modal_especialidade_horarios");

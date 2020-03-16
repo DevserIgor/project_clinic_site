@@ -400,7 +400,7 @@
 									<li> - Visualizar as estruturas dos músculos, articulações, tendões ou </li>
 									<li> - Para visualizar qualquer outra estrutura do corpo humano.</li>									
 								</ul>
-								
+								<br>
 								<p><b>PREPARO:</b> O preparo depende do tipo da Ultrassonografia. Vide com o médico.</p>
 								
 							</div>
