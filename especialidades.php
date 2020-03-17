@@ -152,6 +152,7 @@
                                 
             </div>
             <div style="width:100%;text-align:center;"><a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn">Agende sua consulta</a></div><br><br><br><br>
+            
         </div>
     </div>
     <!-- Align Area End -->

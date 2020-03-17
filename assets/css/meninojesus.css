@@ -65,6 +65,11 @@
 	#mobile-nav-toggle{
 		top:31px !important;
 	}
+	#mobile-nav ul li a.btn_navbar_agendamento{
+		color: #38a4ff;
+		text-align: left;
+		margin-top: 10px;
+	} 
 
 }
 .conteudos_exames{
@@ -101,4 +106,9 @@
 }
 b{
 	color: #222222;
+}
+
+.btn_navbar_agendamento{
+	padding: 0px 17px !important;
+	margin-top:-6px;
 }

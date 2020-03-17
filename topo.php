@@ -70,7 +70,8 @@
                         <li class="menu-active"><a href="exames.php">Exames</a></li>
                         <!--<li class="menu-active"><a href="index.html">Calendário de consultas</a></li>-->
                         <li class="menu-active"><a href="contato.php">Fale conosco</a></li>
-                        <li class="menu-active"><a href="elements.html">##</a></li>
+                        <!-- <li class="menu-active"><a href="elements.html">##</a></li> -->
+                        <li class="menu-active"><a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn genric-btn info-border btn_navbar_agendamento">Agende sua consulta</a></li>
 
                         <!--
                         <li class="menu-active"><a href="index.html">Home</a></li>
