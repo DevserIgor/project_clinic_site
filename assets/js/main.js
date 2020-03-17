@@ -20,7 +20,7 @@
             'id': ''
             });
             $('body').append($mobile_nav);
-            $('body').prepend('<button type="button" id="mobile-nav-toggle"><i class="lnr lnr-menu"></i></button>');
+            $('body').prepend('<a href="tel:2126551085" class="template-btn btn_responsivo_tel"><span id="phone_topo_numero">(21) 2655-1085</span><span id="phone_topo_icone"><i class="fa fa-phone" aria-hidden="true"></i></span></a><button type="button" id="mobile-nav-toggle"><i class="lnr lnr-menu"></i></button>');
             $('body').append('<div id="mobile-body-overly"></div>');
             $('#mobile-nav').find('.menu-has-children').prepend('<i class="lnr lnr-chevron-down"></i>');
 

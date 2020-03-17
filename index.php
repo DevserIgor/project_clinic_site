@@ -12,6 +12,8 @@
                     <h4>Qualidade de vida acessível e confiável.</h4>
                     <!--<p>Qualidade de vida acessível e confiável.</p>-->
                     <a href="http://menjest.dnsalias.com:30080/clinicatotal/online/?id=51J6AU38LM&src=4" target='_blank' class="template-btn mt-3">Agende sua consulta</a>
+
+                    
                 </div>
             </div>
         </div>
@@ -290,7 +292,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2>Tire suas dúvidas</h2>
-                    <span>(21) 2655-1085</span>
+                    <a style="color: #ffffff;" href="tel:2126551085"><span>(21) 2655-1085</span></a>
                     <p class="pt-3">Nossa equipe está disponível de segunda à sexta das 6h30 às 18h e sábados das 6h30 às 13h.</p>
                 </div>
             </div>

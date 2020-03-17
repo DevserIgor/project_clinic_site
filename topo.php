@@ -39,8 +39,8 @@
                 <div class="row">
                     <div class="col-lg-9 d-md-flex">
                         <h6 class="mr-3"><span class="mr-2"><i class="fa fa-mobile"></i></span> (21) 2655-1085</h6>
-                        <h6 class="mr-3"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> policlinicameninojesus@gmail.com</h6>
-                        <h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Rua Expedicionários, 148 - São João de Meriti / RJ</h6>
+                        <!-- <h6 class="mr-3"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> policlinicameninojesus@gmail.com</h6> -->
+                        <a href="https://www.google.com/maps/place/Policl%C3%ADnica+Menino+Jesus/@-22.8025382,-43.3747528,17z/data=!3m1!4b1!4m5!3m4!1s0x996460a8f581d9:0x1ecd4cf7e21ba17d!8m2!3d-22.8025382!4d-43.3725641"><h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Rua Expedicionários, 148 - São João de Meriti / RJ</h6></a>
                     </div>
                     <div class="col-lg-3">
                         <div class="social-links">
