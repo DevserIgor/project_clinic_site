@@ -156,7 +156,7 @@ b{
 		display: block ;
 		top:33px ;
 		font-size: 13px !important;
-		right: 51px;		
+		/*right: 80px;*/
 	}
 	#header #logo img {
 		max-height: 69px !important;
